@@ -1,0 +1,7 @@
+This procedure assumes you've already:
+
+Created a repository on GitHub, or have an existing repository owned by someone else you'd like to contribute to
+Cloned the repository locally on your computer
+Open Git Bash.
+Change the current working directory to your local repository.
+Rename the file, specifying the old file name and
